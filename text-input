@@ -6,7 +6,7 @@
 		<meta name="keywords" content="ada, text, input">
 		<meta name="description" content="example text input">
 		<meta name="author" content="Thomas Toan">
-		<meta name="viewport" content="width=device-width, initial-scale="1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<style>
 			body {
 				background-color: #ccc;
