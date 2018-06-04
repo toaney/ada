@@ -6,7 +6,7 @@
 	<meta name="keywords" content="ADA, checkboxes, examples">
 	<meta name="description" content="Example ADA compliant HTML">
 	<meta name="author" content="Thomas Toan">
-	<meta http-equiv="refresh" content="30" <!-- this will refresh content every 30 seconds" -->
+	<meta http-equiv="refresh" content="30"> <!-- this will refresh content every 30 seconds" -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
 		.formDiv {
