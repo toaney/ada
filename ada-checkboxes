@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Test Page</title>
+	<meta charset="UTF-8">
+	<meta name="keywords" content="ADA, checkboxes, examples">
+	<meta name="description" content="Example ADA compliant HTML">
+	<meta name="author" content="Thomas Toan">
+	<meta http-equiv="refresh" content="30" <!-- this will refresh content every 30 seconds" -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		.formDiv {
+			border: none;
+			width: 200px;
+			text-align: left;
+			padding-left: 10px;
+			
+		}
+		.chkbxSelection {
+			padding-left: 30px;
+		}
+	
+	</style>
+	
+	</head>
+	
+	<body>
+		<div >
+			<fieldset class="formDiv">
+				<legend>Check you checkboxes</legend>
+				<input type="checkbox" name="checkbox1" class="chkbxSelection" id="checkbox-1" /><label for="checkbox-1">checkbox 1</label>
+				<br>
+				<input type="checkbox" name="checkbox2" class="chkbxSelection" id="checkbox-2" /><label for="checkbox-2">checkbox 2</label>
+				<br>
+				<input type="checkbox" name="checkbox3" class="chkbxSelection" id="checkbox-3" /><label for="checkbox-3">checkbox 3</label>
+			</fieldset>
+		<div>
+	</body>
+<html>
