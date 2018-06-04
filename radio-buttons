@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>ADA Radio Dials</title>
+		<meta charset="UTF-9">
+		<meta name="keywords" content="ADA, Radio Dials, forms">
+		<meta name="description" content="example radio dials selector">
+		<meta name="author" content="Thomas Toan">
+		<meta name="viewport" content="width=device-screen, scale=1.0">
+		<meta http-equiv="refresh" content="30">
+		<style>
+			.radioDials {
+				width: 400px;
+				
+			}
+			
+			
+		
+		</style>
+	</head>
+	<body>
+		<fieldset class="radioDials">
+			<legend>Select radio dials below</legend>
+			<input type="radio" name="options" value="selection-1" id="one">
+			<label for="one">Selection One</label>
+			<br>
+			<input type="radio" name="options" value="selection-2" id="two">
+			<label for="two">Selection Two</label>
+			<br>
+			<input type="radio" name="options" value="selection-3" id="three">
+			<label for="three">Selection Three</label>
+			<br>
+			<input type="radio" name="options" value="selection-4" id="four">
+			<label for="four">Selection Four</label>			
+		</fieldset>
+	</body>
+</html>
