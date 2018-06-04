@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<title>ADA Text Input</title>
+		<meta charset="UTF-8">
+		<meta name="keywords" content="ada, text, input">
+		<meta name="description" content="example text input">
+		<meta name="author" content="Thomas Toan">
+		<meta name="viewport" content="width=device-width, initial-scale="1.0">
+		<style>
+			body {
+				background-color: #ccc;
+			}
+
+			.input {
+				width: 350px;
+			}
+			
+			label {
+				text-align: right;
+				width: 110px;
+				float: left;
+				clear: left;
+			}
+			
+			.textInput{
+				background-color; #fff;
+				width: 200px;
+				float: left;
+
+			}
+			
+
+		</style>
+	</head>
+	<body>
+		<fieldset class="input">
+			<legend>Input first and last name</legend>
+			<label for="first">First Name: &nbsp; </label>
+			<input type="text" class="textInput" id="first" placeholder="first name">
+			<br>
+			<label for="last">Last Name: &nbsp; </label>
+			<input type="text" class="textInput" id="last" placeholder="last name">			
+		</fieldset>
+
+	</body>
+</html>
